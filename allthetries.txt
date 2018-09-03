@@ -1,0 +1,263 @@
+"C:\Program Files (x86)\Python36-32\python.exe" C:/Users/Quincy/PycharmProjects/LastHoranBot/program.py
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "69" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "execute" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "???" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "willtolive" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "depauw" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "help" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "???" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "????" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "spoop" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "tenny" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "code" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "horancode" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "horan_the_man" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "horan_is_bland" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "horan=can" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "giveup" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "dadjokes" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "try" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "......#@$ASsd4##vjgtgcnjqtcpncp##!@AS8as89#.......2" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "????" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "????......#@$ASsd4##vjgtgcnjqtcpncp##!@AS8as89#.......2" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "????+" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "horanstry" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "horanmusic" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "tenny" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "peddlers" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "Squidward" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "peddlersmall" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "internship" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "internships" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "summerworks" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "job" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "jobs" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "screwdriver" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "teamliquid" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "tl" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "liquid" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "complacency" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "breedsdeath" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "yum" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "yes" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "bet" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "bet" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "humana" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "yeet" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "easter" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "egg" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "america" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "yitrydis" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "lan" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "help" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "smartman" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "oof" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "qt" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "qunicy" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "dab" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "python" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "adventure" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "yamistillmessingaround" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "skillsusa" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "easteregg" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "peter" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "yeeter" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "meter" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "why" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "fun" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "adventure" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "reward" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "Python" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "Adventure" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "IDK" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "secret" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "puzzle" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "riddle" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "meme" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "elvis" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "qtenny" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "1893" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "oof" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "minecraft" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "fortnite" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "pcmasterrace" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "story" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "clue" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "test" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "tennyson" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "LAN" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "horanlan" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "mark" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "williams" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "textbased" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "discord" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "adventure" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "pizza" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "fun" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "snacks=true" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "command" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "thelasthoranlan" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "eg" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "egg" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "clue" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "hint" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "ptennyson" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "computers" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "python" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "help" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "fiajsyzwj" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "bewfouvsf" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "cfxgpvwtg" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "secret" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "secret" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "lanparty" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "dgyhqwxuh" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "savehoran" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "peddler" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "peddlersmall" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "savemrhoran" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "text" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "text-based" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "yeet" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "jsutyeet" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "justyeet" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "qtenny" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "help" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "JOBS" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "ASsd4" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "AS8as89" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "vjgtgcnjqtcpncp" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "therealyhoran" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "therealhoran" is not found
+Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "0" is not found
